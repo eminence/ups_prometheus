@@ -1,0 +1,10 @@
+[package]
+name = "ups_prometheus"
+version = "0.1.0"
+authors = ["Andrew Chin <achin@eminence32.net>"]
+
+[dependencies.hyper]
+version = "0.9.10"
+default-features=false
+features = []
+
